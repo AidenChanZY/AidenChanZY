@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AidenChanZY,Just a Ca1n1a0!
-- 👀 I’m interested in Python Go and S3cr3ty!
+- 👀 I’m interested in Python Go and S3cur1ty!
 - 🌱 I’m currently learning Pyth0n!
 
 
